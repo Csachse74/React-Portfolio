@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Password Generator",
+        "image": "https://csachse74.github.io/Portfolio-Unit-2/images/PasswordGenerator.jpg",
+        "description": "A simple app to generate a random password between 8 and 128 charaters.",
+        "technologies":  "Made with:  HTML, CSS, JavaScript, and GitHub Pages.",
+        "tryLink": "https://csachse74.github.io/Password-Generator-Unit-3/",
+        "repository":  "https://github.com/Csachse74/Password-Generator-Unit-3"
+    },
+    {
+        "id": 2,
+        "name": "Notes Tracker",
+        "image": "https://csachse74.github.io/Portfolio-Unit-2/images/NoteTaker.jpg",
+        "description": "Take notes for yourself or list of tasks needed to be done.",
+        "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, and GitHub Pages.",
+        "tryLink": "https://note-tracker-unit-11.herokuapp.com/notes",
+        "repository": "https://github.com/Csachse74/Note-Tracker"
+    },
+    {
+        "id": 3,
+        "name": "Employee Management",
+        "image": "https://csachse74.github.io/Portfolio-Unit-2/images/EmployeeManagement.jpg",
+        "description": "Manage the Departments, Roles, and Employees in your company.",
+        "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Node.js, and GitHub Pages.",
+        "tryLink": "https://github.com/Csachse74/Employee-Management",
+        "repository": "https://github.com/Csachse74/Employee-Management"
+    },
+    {
+        "id": 4,
+        "name": "Weather Predictor",
+        "image": "https://csachse74.github.io/Portfolio-Unit-2/images/WeatherPredictor.jpg",
+        "description": "A simple five day weather predictor.",
+        "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
+        "tryLink": "https://csachse74.github.io/Weather-Unit-6/",
+        "repository": "https://github.com/Csachse74/Weather-Unit-6"
+    },
+    {
+        "id": 5,
+        "name": "Project 1",
+        "image": "https://csachse74.github.io/Portfolio-Unit-2/images/ProjectOne.jpg",
+        "description": "Track and compare you and your friend's ranking in Fortnite.",
+        "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, Fortnite API, Chart.js API, Moment.js, and GitHub Pages.",
+        "tryLink": "https://joeygitsit.github.io/teammatezTracker/index.html",
+        "repository": "https://github.com/JoeyGitsIt/teammatezTracker"
+    }
+]
